@@ -1,0 +1,73 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+    color: rgb(240, 240, 240);
+    background-color: #7c91a3;
+    padding: 0;
+    margin: 0;
+  }
+header {
+    background-color: black;
+}
+  
+h1 {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    color: grey;
+    text-align: center;
+    background: black;
+    padding: 20px 0;
+    margin: 0px;
+  }
+
+h2 {
+      color: #333;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 24px;
+  }
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+section {
+    display: block;
+}
+
+#bio-image,
+#main-bio,
+#contact-info {
+    float: left;
+}
+
+#main-bio {
+    width: 70%;
+}
+#contact-info {
+    width: 30%;
+}
+
+#bio-info {
+      color: #333;
+  }
+
+#bio-image {
+    width: 200px;
+    margin-right: 10px;
+    margin-left: 0px;
+  }
+
+#contact-info {
+    background-color: rgba(0, 0, 0, 0.164);
+    padding: 0px 0px 90px 0px;
+    margin: 0px;
+}
+
+
+a {
+    color: navy;
+}
